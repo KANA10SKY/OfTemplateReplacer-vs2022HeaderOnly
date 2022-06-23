@@ -1,6 +1,4 @@
 # vs-headeronly
 ## Project template for openframeworks.
 
-After clone this repo, Do below.
-1. Clone to {OF_ROOT}/scripts/templates and overwrite default VisualStudio template [vs]
-2. Execute [setup.py] to remove unnecessary files ([.git] and this [README.md]) to forestall wrong Git-Push.
+Clone this repo to {OF_ROOT}/scripts and execute [setup.py] to overwrite default VisualStudio template [\${OF_ROOT}/scripts/templates/vs].
