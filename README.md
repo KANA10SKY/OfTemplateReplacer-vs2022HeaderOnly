@@ -1,5 +1,5 @@
 # vs-headeronly
-project template for openframeworks.
+##project template for openframeworks.
 
 After clone this repo, Do below.
 1. Clone to {OF_ROOT}/scripts/templates and overwrite default VisualStudio template [vs]
